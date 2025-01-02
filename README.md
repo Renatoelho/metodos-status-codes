@@ -1,4 +1,4 @@
-## Como Funciona Uma API: Métodos HTTP e Seus Status Codes
+# Como Funciona Uma API: Métodos HTTP e Seus Status Codes
 
 Neste vídeo, eu explico como funcionam os métodos e status codes HTTP mais comuns utilizados em APIs, com uma aplicação prática desenvolvida em FastAPI. A aplicação simula uma API de produtos, permitindo operações básicas como listar todos os produtos (**GET**), criar um novo produto (**POST**), atualizar um produto existente (**PUT**) e remover um produto (**DELETE**). Além disso, demonstro o comportamento dos principais status codes HTTP, como o **200 OK** para requisições bem-sucedidas, **201 Created** para recursos criados com sucesso, **400 Bad Request** para requisições inválidas e **500 Internal Server Error**, simulando erros internos do servidor. Esse conteúdo é perfeito para quem deseja entender os fundamentos de APIs de forma prática e didática.
 
@@ -17,15 +17,13 @@ A aplicação também demonstra o funcionamento dos seguintes **Status Codes HTT
 - **500 Internal Server Error**: Erro interno simulado para demonstração.
 
 <!--
-https://www.youtube.com/@renato-coelho
+-->
 
-
-# Apresentação em vídeo
+## Apresentação em vídeo
 
 <p align="center">
   <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="imagens/thumbnail/thumbnail-github.png" alt="Vídeo de apresentação"></a>
 </p>
--->
 
 ### Requisitos
 
