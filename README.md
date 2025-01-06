@@ -17,12 +17,13 @@ A aplicação também demonstra o funcionamento dos seguintes **Status Codes HTT
 - **500 Internal Server Error**: Erro interno simulado para demonstração.
 
 <!--
+https://www.youtube.com/@renato-coelho
 -->
 
 ## Apresentação em vídeo
 
 <p align="center">
-  <a href="https://www.youtube.com/@renato-coelho" target="_blank"><img src="imagens/thumbnail/thumbnail-github.png" alt="Vídeo de apresentação"></a>
+  <a href="https://youtu.be/viE7zOKoFOU" target="_blank"><img src="imagens/thumbnail/metodos-status-codes-http.png" alt="Vídeo de apresentação"></a>
 </p>
 
 ### Requisitos
